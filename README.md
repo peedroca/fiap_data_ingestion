@@ -47,7 +47,7 @@ Start preparing Apache NiFi container with mysql connector, to insert data on my
 ![NiFi](/assets/nifi_process.png)
 > ImportExchangeRate
 
-InvokeHTTP - Request data from API.
-PutMongoRecord - Save raw data on MongoDB.
-EvaluateJsonPath - Load attributes with Json data.
-PutSQL - Save attributes data on MySQL.
+InvokeHTTP - Request data from API. </br>
+PutMongoRecord - Save raw data on MongoDB. </br>
+EvaluateJsonPath - Load attributes with Json data. </br>
+PutSQL - Save attributes data on MySQL. </br>
